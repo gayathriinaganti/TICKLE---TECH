@@ -5,7 +5,7 @@ letter="H"
 #Arithemetic- + - * / %
 # lgical - and,or,not
 # comparison- <,>,==,!=,<=,>=
-#Assignment - =, +=, -=, *=,/=git commit 
+#Assignment - =, +=, -=, *=,/=git 
 if (number>5):
     print(name)
 else:
